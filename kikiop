@@ -1,5 +1,6 @@
 class Godlike{
    int playerNumber=10;
    String name="kiki arshdeep singh";
-   
+   double sallary=40000.00;
+   string from="pujab";
    }
