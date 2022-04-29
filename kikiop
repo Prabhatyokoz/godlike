@@ -1,0 +1,5 @@
+class Godlike{
+   int playerNumber=10;
+   String name="kiki arshdeep singh";
+   
+   }
